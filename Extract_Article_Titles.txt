@@ -1,0 +1,3 @@
+In this program, we use the requests library to fetch the content of a news website and BeautifulSoup to parse the HTML and extract the article titles enclosed in <h2> tags. This exercise demonstrates the use of an important library for web scraping and provides a practical example of extracting data from websites in Python.
+
+Note that the example.com domain is for illustration purposes only and may not actually contain a '/news/' page. replace the URL with the actual news website you'd like to scrape. Additionally, ensure that you have permission to scrape the website, and respect the website's terms of service and robots.txt file.
